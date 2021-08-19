@@ -21,3 +21,10 @@ default = [ "async" ]
 
 [dev-dependencies]
 nom = "6.1"
+rand = "0.8.3"
+veth-util-rs = {git = "https://github.com/seeyarh/veth-util-rs.git", branch = "main"}
+serial_test = "0.5.1"
+env_logger = "0.8.2"
+etherparse = "0.9.0"
+byteorder = "1.4.3"
+log = "0.4"
